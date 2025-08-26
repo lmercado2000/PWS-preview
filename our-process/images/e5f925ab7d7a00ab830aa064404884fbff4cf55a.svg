@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 2 2" width="100%">
+<g filter="url(#filter0_f_0_8702)" id="Camera - Len">
+<ellipse cx="1.38347" cy="1.38319" fill="var(--fill-0, #1D4683)" rx="0.383469" ry="0.383193"/>
+</g>
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="0.867701" id="filter0_f_0_8702" width="0.868252" x="0.949342" y="0.949342">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"/>
+<feGaussianBlur result="effect1_foregroundBlur_0_8702" stdDeviation="0.0253288"/>
+</filter>
+</defs>
+</svg>

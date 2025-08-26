@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 37 4" width="100%">
+<path d="M35.6077 1.39538C36.3525 1.20933 36.849 0.387605 37.0041 0H0C0.155153 0.387605 0.651646 1.20933 1.39638 1.39538C1.47396 1.93802 1.8153 3.02332 2.56003 3.02332H34.4441C35.1888 3.02332 35.5302 1.93802 35.6077 1.39538Z" fill="url(#paint0_linear_0_8726)" id="Right Foot Base"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" id="paint0_linear_0_8726" x1="1.37851e-07" x2="37.0041" y1="1.51165" y2="1.51165">
+<stop stop-color="#8C8D91"/>
+<stop offset="0.173014" stop-color="#525358"/>
+<stop offset="0.31824" stop-color="#78797D"/>
+<stop offset="0.465029" stop-color="#A0A0A2"/>
+<stop offset="0.691458" stop-color="#9A9A9C"/>
+<stop offset="0.825754" stop-color="#4F5055"/>
+<stop offset="0.941311" stop-color="#9E9EA0"/>
+<stop offset="1" stop-color="#848589"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 35 2" width="100%">
+<path d="M34.1562 0.0615234C34.0376 0.632836 33.6962 1.51139 33.0264 1.51172H1.1416C0.447235 1.51141 0.106053 0.567286 0 0H34.1562V0.0615234Z" fill="url(#paint0_linear_0_8730)" id="Rubber Base"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" id="paint0_linear_0_8730" x1="-2.50507e-07" x2="34.1562" y1="0.755867" y2="0.755861">
+<stop stop-color="#575757"/>
+<stop offset="0.0827846" stop-color="#2D2D2D"/>
+<stop offset="0.490477" stop-color="#4E4E4E"/>
+<stop offset="0.824814" stop-color="#2A2A2A"/>
+<stop offset="1" stop-color="#5C5C5C"/>
+</linearGradient>
+</defs>
+</svg>
