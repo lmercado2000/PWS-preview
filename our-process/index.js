@@ -1,0 +1,2 @@
+
+function onClickStepIcon(){var e=document.querySelectorAll(".step-icon-container");document.querySelectorAll(".step-icon-container .css-obbqwr").forEach(function(n){n.addEventListener("click",function(){e.forEach(function(e){e.classList.remove("selected")}),n.parentElement.classList.add("selected")})})}window.addEventListener("load",onClickStepIcon);
